@@ -5,4 +5,12 @@
 #   Example 4: if your balance is 8, then your program should return 8. 
 
 def computeMinimumPayment( balance ):
+    balances = { 1000, 600, 25, 8 }
+    def percent(percentage):
+        (2.1 * all in balances) / 100
+    if int in balances <= 10:
+                percentage = 0
+    return (int in balances) - percentage
+    
     #TODO write code inside this function that achieves the functionality described above
+    
