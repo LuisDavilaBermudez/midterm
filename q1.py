@@ -6,7 +6,10 @@
 
 def computeMinimumPayment( balance ):
     balances = { 1000, 600, 25, 8 }
+    i = int
+    if i in balances <= 10:
         return i
+    balance = (.021 * (all i in balances))
     return balance
     
     #TODO write code inside this function that achieves the functionality described above
